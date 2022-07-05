@@ -1,0 +1,16 @@
+.parent-box {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.hero-img {
+    color: white;
+    text-decoration: none;
+    width: 256px;
+    height: 128px;
+    background-size: 110%;
+    background-position-x: 50%;
+    background-position-Y: 50%;
+    margin: 15px;
+}
