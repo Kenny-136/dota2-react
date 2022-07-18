@@ -3,7 +3,7 @@ Data Grabbed from https://www.opendota.com/ API.\
 This Project is only for educational purposes.
 
 
-### This is an Emergency Project that Took me Approximately 8 Hours to create as my Final Project for General Assembly SEI Course.
+### This Project that Took me Approximately 8 Hours to create as my Final Project for General Assembly SEI Course.
 You can access the App here [Click me!](https://dota2-all-heroes.surge.sh/)
 
 In This app you can see all heroes that is available to play in Dota2, and as it is from an Open Source API, it will be updated as the API get updated.\
